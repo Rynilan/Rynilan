@@ -1,7 +1,4 @@
-<h2 align="center">
-  I am Ilan.
-  I am getting into this tech world to make my best.
-</h2>
+<h2 align="center">I am Ilan<br>I'm getting into this tech world to make my best.</h2>
 
 ###
 
@@ -29,14 +26,16 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="30" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="38" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="38" alt="whatsapp logo"  />
 </div>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Rynilan&theme=dark" alt="Layout with last medium posts"  />
+  <img src="https://profile-counter.glitch.me/Rynilan/count.svg?"  />
 </div>
 
 ###
