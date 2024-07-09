@@ -15,7 +15,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/archlinux.svg" height="50" alt="Arch linux logo" />
-  <img width="30  />
+  <img width="30"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
