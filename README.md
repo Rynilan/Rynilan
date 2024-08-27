@@ -21,6 +21,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="50" alt="bash logo"  />
+  <img width="30" />
+  <img src="https://th.bing.com/th/id/R.a7b0e3e0ed09319926027b641c064d11?rik=a15gZN7EGWyLGg&pid=ImgRaw&r=0", height="50", alt="markdown icon" />
+  <img width="30" />
+  <img src="https://www.php.net/images/logos/new-php-logo.svg", height="50", alt="php icon" />
+  <img width="30" />
+  <img src="https://x0.at/c2uN.png", height="50", alt="assembly icon" />
+  <img width="30" />
 </div>
 
 ###
