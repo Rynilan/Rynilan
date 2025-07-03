@@ -20,7 +20,7 @@
       </td>
       <td>
         <div align="right">
-          <img src="pfp.png" width=500 height=500/> 
+          [<img src="pfp.png" width=500 height=500/>](https://tinyurl.com/trolagi-hahaha)
         </div>
       </td>
   </tr>
