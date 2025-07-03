@@ -13,8 +13,8 @@
             <img src="https://skillicons.dev/icons?i=html,css,javascript,php" width=400 height=100/><br/>
             <img src="https://skillicons.dev/icons?i=bash,c,java,maven" width=400 height=100/><br/>
             <img src="https://skillicons.dev/icons?i=py,mysql,regex,md" width=400 height=100/><br/>
-            <a href="https://ilan.vsa@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width=100 height=100/></a>
-            <a href=https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" width=90 height=100/></a>
+            <a href="https://ilan.vsa@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width=80 height=100/></a>
+            <a href=https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" width=80 height=100/></a>
             <img src="https://skillicons.dev/icons?i=codepen,linux" width=200 height=100/><br/>
         </div>
       </td>
